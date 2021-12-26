@@ -1,0 +1,5 @@
+hsaudiotag (1.1.3-1kaisen) kaisen-packages; urgency=medium
+
+  * First packaging for Kaisen Linux
+
+ -- Kevin Chevreuil - Kaisen <kaisen@kaisenlinux.org>  Sun, 26 Dec 2021 02:03:35 +0100

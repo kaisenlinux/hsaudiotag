@@ -1,0 +1,15 @@
+=======================================
+hsaudiotag3k - Read audio file metadata
+=======================================
+
+This is a Python 3 package. The Python 2 package is at http://pypi.python.org/pypi/hsaudiotag .
+
+``hsaudiotag`` is a pure Python library that lets you read metadata (bitrate, sample rate, duration and tags) from mp3, mp4, wma, ogg, flac and aiff files. It can only read tags, not write to them, but unlike more complete libraries (like `Mutagen <http://code.google.com/p/quodlibet/wiki/Mutagen>`_), it is BSD licensed, making it suitable for most projects. It is also backed by a nifty test suite.
+
+The documentation has to be built with Sphinx. You can get Sphinx at http://sphinx.pocoo.org/
+
+Once you installed it, you can build the documentation with::
+
+    sphinx-build docs docs_html
+
+The documentation is also available online at http://www.hardcoded.net/docs/hsaudiotag
